@@ -1,0 +1,26 @@
+.heder img {
+    height: 60px;
+    margin-top: 40px;
+}
+
+.heder nav {
+    /* margin-top: 15px; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: large;
+    background-color: black;
+    line-height: 20px;
+  
+    
+}
+nav a {
+    color: #eaf0f7;
+    text-decoration: none;
+    padding: 15px;
+    
+}
+nav a:hover{
+    background-color: rgb(169, 157, 157);
+    border-radius: 12px;
+}
